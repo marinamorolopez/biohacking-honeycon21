@@ -11,7 +11,7 @@ If you want to recreate the example of the slides just use the provided fasta fi
 - Knock-in in the middle of the AR gene (position 363, new base T)
 - Knock-in of the GFP.fasta sequence at the end of the TYR gene
 
-## Constributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
